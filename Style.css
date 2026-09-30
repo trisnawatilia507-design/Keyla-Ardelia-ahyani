@@ -1,0 +1,32 @@
+body{
+  font-family: Ariel, Helvetica, sans-serif;
+  background-color: rgb(224, 205, 238);
+    }
+h3{color: aquamarine;}
+
+h1 {
+  color: blue;
+
+  }
+.tebal {font-weight: bold;
+
+  }
+#deskripsi{font-size: 20px;
+
+  }
+button {background-color: blueviolet;
+       border-radius: 6px;
+       color: aliceblue;
+       padding: 12px 20px;
+       cursor: pointer;
+
+  }
+.profil {
+  width: 500px;
+  margin: 30px;
+  padding: 30px;
+  background-color: white;
+  border-radius: 10px;
+  text-align: center;
+
+}
